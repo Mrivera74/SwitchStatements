@@ -3,7 +3,7 @@ var response = Console.ReadLine();
 
 switch (response)
 {
-    case "Science":
+    case "Science science":
         Console.WriteLine("Cool! It's my favorite too");
         break;
 
